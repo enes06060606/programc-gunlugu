@@ -1,0 +1,2 @@
+# programc-gunlugu
+programcı gunlugu
